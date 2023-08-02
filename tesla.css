@@ -1,0 +1,46 @@
+.navbar-brand{
+   font-family: 'Zen Dots', cursive;
+}
+
+ /* .carousel-inner{
+height: 550px;
+}  */
+.container{
+    margin-top: 41px;
+}
+#a{
+    height: 300px;
+    width: 300px;
+}
+#b{
+    height: 300px;
+    width: 300px;
+
+}
+#tesla{
+    font-family: 'Zen Dots', cursive;
+    color: rgb(226, 2, 2);
+    font-size: 80px;
+    margin: -14px;
+}
+#tesla1{
+    font-family: 'Nunito', sans-serif;
+    color: rgb(253, 251, 251);
+    font-size: 38px;
+    
+
+}
+#ab{
+    margin-left: 71px;
+    margin-top: 60px;
+}
+#ac{
+    margin-top: -30px;
+    height: 352px;
+    width: 513px;
+}
+
+
+#img{
+    height: 10%;
+}
